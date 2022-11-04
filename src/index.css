@@ -1,0 +1,105 @@
+.loading-indicator:before {
+    content: '';
+    background: #000000cc;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    z-index: 1000;
+}
+
+.loading-indicator:after {
+    content: '...';
+    position: fixed;
+    width: 100%;
+    top: 50%;
+    left: 0;
+    z-index: 1001;
+    color:white;
+    text-align:center;
+    font-weight:bold;
+    font-size:1.5rem;
+}
+
+/************* MUI *********************/
+.MuiButton-outlinedNeutral {
+    border: 1px solid #000 !important;
+}
+
+.img-fluid {
+    max-width: 100%;
+    width: 100%;
+}
+
+.full-img-responsive{
+    width: 100%;
+    height: auto;
+    max-width: 100%;
+}
+
+.lazy-load-image-background{
+    width: 100%;
+    height: 100%;
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.img-lazy-loading {
+    width: 100%;
+    height: 100%;
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: cover;
+}
+
+.bg-yellow{
+    background-color: #fc3 !important;
+}
+
+.bg-brown {
+    background-color: #e2c498 !important;
+}
+
+.color-yellow{
+    color: #fc3 !important;
+}
+
+/*.color-orange{*/
+/*    color: #f75306 !important;*/
+/*}*/
+
+.bg-grey{
+    background-color: #94908f !important;
+}
+
+.color-grey{
+    color: #94908f !important;
+}
+
+.float-right {
+    float: right;
+}
+
+.truncate-text{
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.truncate-string-two-lines {
+    -webkit-box-orient: vertical;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: normal;
+}
+
+.uppercase{
+    text-transform: uppercase !important;
+}
+
+
+
+

@@ -1,0 +1,22 @@
+export const initialState = {
+    rentRequest: {
+        loading: false,
+        entity: {},
+        loadingEntitiesSent: false,
+        entitiesSent: [],
+        totalItemsSent: -1,
+        totalPagesSent: 0,
+        activePageSent: -1,
+        loadingEntitiesReceived: false,
+        entitiesReceived: [],
+        totalItemsReceived: -1,
+        totalPagesReceived: 0,
+        activePageReceived: -1,
+        addSuccess: false,
+        updateSuccess: false,
+        deleteSuccessSent: false,
+        refusedSuccessReceived: false,
+        acceptedSuccessReceived: false,
+        errorMessage: null,
+    },
+};

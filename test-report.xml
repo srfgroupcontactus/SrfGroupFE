@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testExecutions version="1">
+  <file path="C:\Disque_dur\DocTR\Projects\SrfGroup\CodeSources\SrfGroupFE\src\App.test.tsx">
+    <testCase name="renders App" duration="0"/>
+  </file>
+  <file path="C:\Disque_dur\DocTR\Projects\SrfGroup\CodeSources\SrfGroupFE\src\core\config\axios-interceptor.spec.ts">
+    <testCase name="Axios Interceptor setupAxiosInterceptors onRequestSuccess is called on fulfilled request" duration="2"/>
+    <testCase name="Axios Interceptor setupAxiosInterceptors onResponseSuccess is called on fulfilled response" duration="1"/>
+  </file>
+  <file path="C:\Disque_dur\DocTR\Projects\SrfGroup\CodeSources\SrfGroupFE\src\shared\reducers\__test__\user.reducer.spec.ts">
+    <testCase name="User reducer tests Common tests should return the initial state" duration="5"/>
+    <testCase name="User reducer tests Requests should detect a request" duration="2"/>
+  </file>
+  <file path="C:\Disque_dur\DocTR\Projects\SrfGroup\CodeSources\SrfGroupFE\src\main-features\login\SignIn.test.tsx">
+    <testCase name="Test SignIn Component render login component" duration="298"/>
+  </file>
+</testExecutions>

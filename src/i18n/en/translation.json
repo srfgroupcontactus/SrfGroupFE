@@ -1,0 +1,296 @@
+{
+  "unauthorized": "Session expired",
+  "forbidden": "Unauthorized access",
+  "common": {
+    "label_cancel": "Cancel",
+    "label_send": "Send",
+    "label_subscribe": "Subscribe",
+    "label_name": "Name",
+    "label_email": "Email",
+    "label_phone": "Phone",
+    "label_add": "Add",
+    "label_google_maps": "Google Maps",
+    "label_firstname": "FirstName",
+    "label_lastname": "LastName",
+    "label_password": "Password",
+    "label_new_password": "New password",
+    "label_confirm_password": "Confirm Password",
+    "label_register": "Register",
+    "label_update": "Update",
+    "label_search": "Search",
+    "label_favorite": "Favorite",
+    "for_sell": "For Sell",
+    "for_rent": "For Rent",
+    "for_find": "For find",
+    "label_address": "Address",
+    "label_category": "Category: ",
+    "cateory": "Category",
+    "type_offer": "Type offer",
+    "email_is_required": "Email is required",
+    "label_load_more": "Load More",
+    "label_start_date": "Start date",
+    "label_end_date": "End date",
+    "type_periode_rent_PerYear": "Per year",
+    "type_periode_rent_PerMonth": "Per month",
+    "type_periode_rent_PerDay": "Per day",
+    "label_period": "Period",
+    "label_delete": "Delete",
+    "label_disfavorite": "Disfavorite",
+    "label_report": "Report",
+    "label_amount": "Amouont",
+    "label_share": "Partager",
+    "label_unauthorized_action": "Unauthorized action",
+    "message_unauthorized_action": "Unauthorized action, please logged in",
+    "label_user_name": "Username"
+  },
+  "cookie": {
+    "accept": "Accept",
+    "first_description": "This website uses cookies to enhance the user experience",
+    "second_description": "This bit of text is smaller :O"
+  },
+  "header": {
+    "label_add_offer": "Add offer",
+    "link_home": "Home",
+    "link_support": {
+      "link_label_support": "Support",
+      "link_contact_us": "ContactUs",
+      "link_about": "AboutUs",
+      "link_faq": "FAQ"
+    },
+    "chat": "Chat",
+    "my_offers": "My offers",
+    "my_favorite_users": "My favorite users",
+    "notifications": "Notifications",
+    "logout": "Logout",
+    "signup": "Sign Up",
+    "label_account": "My account",
+    "label_my_offers": "My offers",
+    "lable_favorties_users": "My favorite users",
+    "label_cart": "Cart",
+    "label_order": "Orders"
+  },
+  "home": {
+    "steps": {
+      "title_create_account": "CREATE YOUR ACCOUNT",
+      "sub_title_create_account": "Create your account and complete your profile.",
+      "title_login": "LOG IN",
+      "sub_title_login": "Log in.",
+      "title_participate": "PARTICIPATE IN AUCTION",
+      "sub_title_participate": "Participate in the auctions that interest you.",
+      "title_win_auction": "WIN THE AUCTION",
+      "sub_title_win_auction": "Win the auction and win a product at less than 30% of its value!."
+    },
+    "label_category_immovable": "Immovable",
+    "label_category_cars": "Cars",
+    "label_category_phones": "Phones",
+    "label_category_services": "Services",
+    "label_category_search": "Search"
+  },
+  "account": {
+    "title": "Account",
+    "label_personnel_details": "Personal Details",
+    "label_password_details": "Password Details",
+    "label_languages": "User language",
+    "label_email": "Email",
+    "label_firstname": "Firstname",
+    "label_lastname": "Lastname",
+    "label_phone": "Phone",
+    "label_current_password": "Current password",
+    "label_new_password": "New password",
+    "label_conf_new_password": "Confirm New password",
+    "label_update_infos": "Update informations",
+    "label_update_password": "Update password",
+    "label_link_profile_facebook": "Link Profile Facebook",
+    "message_update_infos_succefully": "Update infos succefully",
+    "message_update_password_succefully": "Update password succefully",
+    "message_update_avatar_succefully": "Update avatar succefully",
+    "message_activation_account_succefully": "Account activated successfully",
+    "invalid_old_password": "Old password invalid"
+  },
+  "signup": {
+    "title-dialog-register": "Register succefully",
+    "inbox-dialog-register": "Please check your inbox for activation your account",
+    "label-activation-dialog-register": "Activation",
+    "title-page-register": "Registration",
+    "accept-cgu": "By validating your account, you agree to our terms and conditions.",
+    "label-already-have-account": "Already have an account? Sign in",
+    "label_email_already_used": "Email is already in use!"
+  },
+  "signin": {
+    "title_page_signin": "Sing In",
+    "label_login": "Logged in",
+    "label_forgot_password": "Did you forget your password?",
+    "label_register_account": "Register a new account",
+    "title_page_forgot_password": "Forgot password",
+    "label_remember_me": "Remember me",
+    "blocked_by_admin": "You are blocked, please contact the administration",
+    "account_not_activated": "Account was not activated",
+    "bad_credentials": "Email/Password invalid"
+  },
+  "comment_offer": {
+    "comment_offer_added_succefully": "Comment added succefully",
+    "show_comment_details_offer": "Show comments",
+    "hide_comment_details_offer": "Hide comments",
+    "show_more_comment": "Show more comments",
+    "label_add_comment": "Add comment",
+    "label_comment": "Comment",
+    "comment_offer_update_succefully": "Comment update succefully",
+    "comment_offer_delete_succefully": "Comment delete succefully",
+    "alert_bad_word": "Attention!, all unwanted words you will be blocked"
+  },
+  "profile": {
+    "title_page_profile": "Profile",
+    "title_send_message": "Send a message",
+    "write_your_message": "Write your message...",
+    "label_link_profile_facebook": "Link Profile Facebook",
+    "title_list_offers_by_user": "List of offers for user",
+    "favorite_user": "Favorite user",
+    "send_message": "Send a message",
+    "report_user": "Report user",
+    "message_report_successfully": "User reported successfully"
+  },
+  "add_offer": {
+    "title_page": "Create new Offer",
+    "label_publish_new_offer": "Publish a new offer",
+    "label_type_offer": "Type Offer *",
+    "label_title_offer": "Title *",
+    "label_more_options": "To get a better result, you need to add options",
+    "label_select_offer_plz": "Select one type offer please",
+    "label_update_offer": "Update offer",
+    "label_add_offer": "Add offer",
+    "per_periode": "Period",
+    "per_month": "Per month",
+    "per_day": "Per day",
+    "per_year": "Per year",
+    "check_required_fileds": "Please check the required fields",
+    "placeholder_description": "Please type here your description...",
+    "type_offer_require": "Type offer is required",
+    "title_required": "Title is required",
+    "description_required": "Description is required",
+    "message_create_offer_succefull": "Offer created successfully",
+    "label_type_contact_client": "Contact type",
+    "direct_type_contact_client": "The customer must contact me directly",
+    "per_commande_type_contact_client": "The customer can place an order",
+    "message_update_offer_succefull": "L offre update succefully",
+    "title_min_length": "Min 5 char",
+    "title_max_length": "Max 200 char",
+    "carpooling": "Carpooling",
+    "carrier": "Carrier",
+    "travels": "Travels",
+    "confirm_delete_image": "Delete image",
+    "message_confirm_delete_image": "Are you sur to delete this image !"
+  },
+  "news_letter": {
+    "added_success": "Thanks for your subscription"
+  },
+  "message": {
+    "sent_succefully": "Message sent succefully"
+  },
+  "notification": {
+    "title_page": "Notifications",
+    "not_found_result": "No Notifications found"
+  },
+  "my_offers": {
+    "title_page": "My offers",
+    "no_offers_found": "No Offers found",
+    "title_dialog_delete_offer": "Delete offer",
+    "description_dialog_delete_offer": "Are you sure you want to delete this offer?"
+  },
+  "details_offer": {
+    "title_add_favrite_user": "Favorite user",
+    "label_details_offer": "Offer details",
+    "description_add_favrite_user": "Add this user to your favorite list",
+    "about_seller": "About the seller",
+    "send_message": "Send a message",
+    "contact_with": "Contact with",
+    "show_number": "Show phone number",
+    "send_email": "Send an email",
+    "label_show_more": " Show more",
+    "label_show_less": " Show less",
+    "not_address_found_itenarary": "Not available address",
+    "miss_address_account": "Please add address in your account",
+    "message_not_link_profile_facebook_exist": "Not link facebook exist",
+    "title_dialog_report_offer": "Repoprt offer",
+    "description_dialog_report_offer": "Do you want report this offer !",
+    "title_dialog_delete_comment": "Delete comment",
+    "description_dialog_delete_comment": "Do you want delete this comment !",
+    "title_dialog_report_comment": "Report comment",
+    "description_dialog_report_comment": "Do you want report this comment !",
+    "offer_contact_direct": "Should contact the seller directly",
+    "similair_offers": "Similar Offers",
+    "missing_amount": "The amount is not declared by the seller, you can not place the order"
+  },
+  "forgot_password_init": {
+    "message_send_mail_success": "Check your emails for details on how to reset your password.",
+    "reset_finish_messages_success": "Your password reset successfully",
+    "user_not_found_by_email": "User not found with this email",
+    "message_invalid_key": "Invalid key"
+  },
+  "forgot_password_finish": {
+    "title_forgot_password_finish": "Update password."
+  },
+  "footer": {
+    "label_about_us": "About us",
+    "label_Who_are_we": "Who are we",
+    "label_privacy_policy": "Privacy Policy"
+  },
+  "contact_us": {
+    "title_contact_us": "Contact us",
+    "label_write_us": "Write U.S",
+    "label_name": "Name",
+    "label_email": "Email",
+    "label_subject": "Subject",
+    "label_message": "Message",
+    "label_send_message": "Send a message",
+    "name_is_required": "Name is required",
+    "email_is_required": "Email is required",
+    "subject_is_required": "Subject is required",
+    "message_is_required": "Message is required",
+    "recaptcha_is_required": "Recaptcha is required",
+    "label_at_your_service": "At your service",
+    "message_add_successfully": "Message sent successfully"
+  },
+  "favorite": {
+    "user":{
+      "title_favorite_users": "Favorites users",
+      "message_no_favorite_found": "No Favorite user found",
+      "message_add_favorite_user_succefully": "User added successfully",
+      "message_remove_favorite_user": "User removed successfully",
+      "title_remove_favrite_user": "DisFavorite user",
+      "description_remove_favrite_user": "Remove this user to your favorite list"
+    }
+  },
+  "report_probleme": {
+    "report_probleme_added_succefully": "Declaration sent successfully"
+  },
+  "contact-us": {
+    "messages.success": "Message sent successfully"
+  },
+  "chat": {
+    "title_delete_conversation": "Delete conversation",
+    "description_delete_conversation": "Are you sur to delete this conversation ?",
+    "conversation_delete_succefully": "Conversation delete successfully"
+  },
+  "cart": {
+    "message_add_cart_succefull": "Add successfully",
+    "title_dialog_delete_cart": "Delete this cart",
+    "description_dialog_delete_cart": "Are you sur to delete this cart",
+    "cart_delete_succefully": "Cart delete successfully",
+    "list_not_found": "Cart not found",
+    "cart_added_successfully": "Offer added to cart successfully",
+    "label_validate_order": "Validate the order",
+    "label_confirm_order": "Confirme the order",
+    "label_pass_order": "Passer the order",
+    "label_code": "Code",
+    "label_back_order": "Retour",
+    "select_your_mode_payment": "Choose your way of payment please"
+  },
+  "order": {
+    "title_order": "Commandes",
+    "label_success": "Commandes reussies",
+    "label_failure": "Commandes échouées",
+    "title_dialog_add_order": "Passer la commande",
+    "description_dialog_add_order": "Votre commande a été bien passée",
+    "no_commandes_founds": "No found commande"
+  }
+}

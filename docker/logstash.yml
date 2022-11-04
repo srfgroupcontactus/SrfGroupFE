@@ -1,0 +1,18 @@
+version: '1.0'
+services:
+
+  # Logstash
+  logstash:
+    image: logstash:7.6.1
+    container_name: logstash
+    links:
+      - elasticsearch:elasticsearch
+    volumes:
+      - ./logstash/:/etc/logstash/conf.d/
+      - ./logs/SrfGroupElk.log:/tmp/logs/SrfGroupElk.log
+      # - ./:/config-dir
+    command: logstash -f /logstash/logstash.conf
+    ports:
+      - "5000:5000"
+    depends_on:
+      - elasticsearch
